@@ -260,7 +260,7 @@ coroutine.wrap(RainbowLoob)()
    UserImage.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
    UserImage.BackgroundTransparency = 1.000
    UserImage.Size = UDim2.new(0, 32, 0, 32)
-   UserImage.Image = "" --icon
+   UserImage.Image = "http://www.roblox.com/asset/?id=7946832364" --icon
 
    UserCircleImage.Name = "UserImage"
    UserCircleImage.Parent = UserImage
